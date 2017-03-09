@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="151366" moduleid="1564567" modulename="label" contextid="2117224">
+  <label id="151366">
+    <name>Instructional Activities
+ActivityTime EstimateDea...</name>
+    <intro>&lt;h4&gt;Instructional Activities&lt;/h4&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Activity&lt;/th&gt;&lt;th scope="col"&gt;Time Estimate&lt;/th&gt;&lt;th scope="col"&gt;Deadline*&lt;/th&gt;&lt;th scope="col"&gt;Points&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Week 1 Overview Video]]]]&lt;/th&gt;
+&lt;td&gt;[[[[#]]]] minutes&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[NA]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Week 1 Readings and Lectures]]]]&lt;/th&gt;
+&lt;td&gt;[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[NA]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Week 1 Quiz]]]]&lt;/th&gt;
+&lt;td&gt;
+&lt;p&gt;[[[[#]]]] hours&lt;/p&gt;
+&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[#]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Week 1 Discussion]]]]&lt;/th&gt;
+&lt;td&gt;[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Day]]]]] (Initial Post); [[[[[Day]]]]] (Reply)&lt;/td&gt;
+&lt;td&gt;[[[[#]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Week 1 Assignment]]]]&lt;/th&gt;
+&lt;td&gt;[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[#]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Project Overview]]]]&lt;/th&gt;
+&lt;td&gt;[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[#]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[Project Milestone 1: Title]]]]&lt;/th&gt;
+&lt;td&gt;[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[#]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;* Unless otherwise noted, all deadlines are before 11:55 PM Central Time (CT) (&lt;a href="http://www.timeanddate.com/worldclock/converter.html" target="_blank"&gt;time zone conversion&lt;/a&gt;) and correspond to the weekly module in which they are listed.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1478025258</timemodified>
+  </label>
+</activity>

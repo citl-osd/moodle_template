@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="151363" moduleid="1564564" modulename="label" contextid="2117200">
+  <label id="151363">
+    <name>[[[[[Week Title]]]]]
+[[[Date Range]]]
+[[[[Brief ...</name>
+    <intro>&lt;h4&gt;[[[[[Week Title]]]]]&lt;/h4&gt;
+&lt;p&gt;[[[Date Range]]]&lt;/p&gt;
+&lt;p&gt;[[[[Brief &lt;strong&gt;summary/overview&lt;/strong&gt; (a few sentences) to introduce the topic of this module, provide context for the instructional activities, and spark students’ interest.]]]]]&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1469808978</timemodified>
+  </label>
+</activity>

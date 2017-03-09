@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="211505" moduleid="1506425" modulename="page" contextid="1949789">
+  <page id="211505">
+    <name>Weekly Discussion Instructions</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;[[[[[An explanation of why this activity is important, ideally linking back to learning objectives.]]]]]&lt;/p&gt;
+&lt;h3&gt;Objectives &lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[TBD]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[TBD]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Time Estimate &lt;/h3&gt;
+&lt;p&gt;Approximately [[[[[[[[[[TBD–TBD unit-of-measure]]]]]]]]]]&lt;/p&gt;
+&lt;h3&gt;Instructions&lt;/h3&gt;
+&lt;h4&gt;Initial Post&lt;/h4&gt;
+&lt;p&gt;You must submit an initial post for this activity. Compose an initial post that meets the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Includes at least [[[[&lt;b&gt;TBD&lt;/b&gt;]]]] &lt;b&gt;words&lt;/b&gt;, excluding references.&lt;/li&gt;
+&lt;li&gt;Uses your name and a brief summary as the subject of your post (for example, Robert Smith: Sustainability is not a conspiracy).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Response Posts&lt;/h4&gt;
+&lt;p&gt;After your classmates have posted, read and respond to at least [[[[[&lt;b&gt;two&lt;/b&gt;]]]]] of their posts. Each of your response posts must meet the following requirements:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Include at least [[[[[&lt;b&gt;TBD&lt;/b&gt;]]]]] &lt;b&gt;words&lt;/b&gt;, excluding references.&lt;/li&gt;
+&lt;li&gt;Stimulate more in-depth discussion and learning among the larger group.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Grading&lt;/h3&gt;
+&lt;p&gt;This activity is worth &lt;b&gt;[[[[[# points]]]]]:&lt;/b&gt; [[[[[&lt;b&gt;# points&lt;/b&gt;]]]]] for your initial post and [[[[[&lt;b&gt;# points&lt;/b&gt;]]]]] for each response post. Please see the [[[[[&lt;b&gt;insert rubric link&lt;/b&gt;]]]]] for detailed information about how your posts will be graded.&lt;/p&gt;
+&lt;h3&gt;Submission Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;b&gt;Initial Post:&lt;/b&gt; Click the &lt;b&gt;Add a new discussion topic &lt;/b&gt;button below to access the discussion board and begin a new thread.&lt;/li&gt;
+&lt;li&gt;&lt;b&gt;Response Post:&lt;/b&gt; Select the title of any post to review it and read any replies already submitted. Click the &lt;b&gt;Reply &lt;/b&gt;link next to any post to compose a reply.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Deadline&lt;/h3&gt;
+&lt;p&gt;See the week-specific instructional activities table for specific deadline information.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>12</revision>
+    <timemodified>1478879462</timemodified>
+  </page>
+</activity>

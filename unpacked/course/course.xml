@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="16804" contextid="1913959">
+  <shortname>CITL Moodle Template - Master</shortname>
+  <fullname>CITL Moodle Template - Master</fullname>
+  <idnumber></idnumber>
+  <summary>&lt;p&gt;Official CITL Moodle Course Template, initially adopted in November 2016. Supersedes all other CITL Moodle templates.&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>tabtopics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1459141200</startdate>
+  <marker>0</marker>
+  <maxbytes>1073741824</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>0</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1459175701</timecreated>
+  <timemodified>1478007017</timemodified>
+  <requested>0</requested>
+  <enablecompletion>0</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <numsections>15</numsections>
+  <hiddensections>0</hiddensections>
+  <coursedisplay>0</coursedisplay>
+  <isZeroTab>0</isZeroTab>
+  <remember_last_tab_session>1</remember_last_tab_session>
+  <category id="1550">
+    <name>Development</name>
+    <description>$@NULL@$</description>
+  </category>
+  <tags>
+  </tags>
+</course>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="220954" moduleid="1553644" modulename="page" contextid="2060746">
+  <page id="220954">
+    <name>FAQ</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;[[[[[Course specific, seeded initially with generic course questions.]]]]]&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1478023520</timemodified>
+  </page>
+</activity>

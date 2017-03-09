@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="187398" moduleid="1781364" modulename="assign" contextid="2779635">
+  <assign id="187398">
+    <name>Project Milestone 2: TITLE</name>
+    <intro>&lt;p&gt;[[[[[An explanation of why this activity is important, ideally reflecting one or more of the weekly learning objectives.]]]]]&lt;/p&gt;
+&lt;h3&gt;Objectives&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Learning outcome]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Learning outcome]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Time Estimate&lt;/h3&gt;
+&lt;p&gt; [[[[[1−2 hours]]]]]&lt;/p&gt;
+&lt;h3&gt;&lt;span class="nolink"&gt;Assignment Instructions&lt;/span&gt;&lt;/h3&gt;
+&lt;p&gt;[[[[[TBD]]]]]&lt;/p&gt;
+&lt;p&gt;If you are not sure how to go about completing the assignment, post your question to the &lt;strong&gt;Q &amp;amp; A Forum&lt;/strong&gt;. Here your classmates and the instructor are encouraged to help you understand the assignment.&lt;/p&gt;
+&lt;h3&gt; Evaluation&lt;/h3&gt;
+&lt;p&gt;[[[[TBD]]]] points possible. See [[[[rubric]]]]. See the Policies page of the Syllabus for more details.&lt;/p&gt;
+&lt;h3&gt;Submission Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Submit your assignment using the following naming convention: [[[[[&lt;strong&gt;lastname_assignment1]]]]]&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;File formats accepted: [[[[[pdf, doc, docx, etc.]]]]]&lt;/li&gt;
+&lt;li&gt;To submit your work, click on the [[[[[&lt;strong&gt;Submit Assignment [[[[[#]]]]]]]]]] &lt;/strong&gt;link below.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Deadline&lt;/h3&gt;
+&lt;p&gt;See the Project Overview page for more detailed information about deadlines for this assignment.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>0</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>100</grade>
+    <timemodified>1477926703</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="2349603">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349606">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349609">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>20</value>
+      </plugin_config>
+      <plugin_config id="2349612">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349615">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349618">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349621">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349624">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349627">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349630">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimit</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349633">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>wordlimitenabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349636">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>commentinline</name>
+        <value>0</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

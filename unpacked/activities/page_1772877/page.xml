@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="251163" moduleid="1772877" modulename="page" contextid="2759190">
+  <page id="251163">
+    <name>Instructor Notes for Orientation Quiz</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;This orientation quiz contains a set of 10 basic questions to help make sure students are familiar with the technology, learning management system requirements, and communication and participation expectations. This quiz is currently set up to allow unlimited attempts and to record the students' highest score, although these settings, and the scoring, can be changed to your liking. The purpose behind allowing multiple attempts is to leverage the repetition and automated feedback to help reinforce key course expectations and requirements, rather than testing in a timed, single-attempt manner.&lt;/p&gt;
+&lt;p&gt;Please feel free to add additional course-specific questions, particularly those that may help you avoid answering the same questions by email that you often get at the beginning of the course--e.g., textbook requirements, if there are one or more exams, late submission policies, turnaround time on grading, extra credit options, etc.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"1";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1476986371</timemodified>
+  </page>
+</activity>

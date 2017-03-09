@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="126571" moduleid="1553341" modulename="forum" contextid="2060059">
+  <forum id="126571">
+    <type>general</type>
+    <name>Q &amp;amp; A Forum</name>
+    <intro>&lt;p&gt;Before posting to this forum, be sure that the answer cannot be found in the FAQ, Instructor Information, Course Information, or Policies pages.&lt;/p&gt;
+&lt;p&gt;If you have a question about the course or the content, please post that question in this forum. Posting questions here allows everyone to benefit from the answer. Most likely, other students also have the same question. Submit posts by clicking the &lt;strong&gt;Add a new discussion topic &lt;/strong&gt;button below. Optimal post titles use a small phrase that summarizes the question(s).&lt;/p&gt;
+&lt;p&gt;Note: If your question is of a personal nature or grade related, please contact your instructors directly. See the Instructor Information page in the &lt;span class="nolink"&gt;Course Information&lt;/span&gt; section for contact information, including virtual office hours.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>512000</maxbytes>
+    <maxattachments>9</maxattachments>
+    <forcesubscribe>2</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1478023563</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

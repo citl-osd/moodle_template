@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="220938" moduleid="1553355" modulename="page" contextid="2060091">
+  <page id="220938">
+    <name>Placeholder for Virtual Office</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;h3&gt;Template Virtual Office Text&lt;/h3&gt;
+&lt;p&gt;Your instructor’s &lt;strong&gt;Virtual Office&lt;/strong&gt; is a Web-based method of synchronous communication between students and faculty to promote learning. In the Virtual Office, you can use text chat, audio chat, or even video chat to talk with your instructor. Additionally, there is a whiteboard area where you and the instructor can share images and draw diagrams. You can use your instructor’s Virtual Office to get help from the instructor on course materials and discuss any questions you may have for the instructor.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Virtual Office Hours:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;by appointment or TBD&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span class="nolink"&gt;Getting Help:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If you have questions about Blackboard Collaborate, please consult &lt;a href="http://blackboard.force.com/btbb_publichome?dfprod=Collaborate" target="_blank"&gt;Blackboard Collaborate Support&lt;/a&gt; site for more information. You could also get assistance by calling the &lt;a href="http://blackboard.force.com/apex/publickbarticleview?id=kA570000000PCje" target="_blank"&gt;24-hour phone support number&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1477919996</timemodified>
+  </page>
+</activity>

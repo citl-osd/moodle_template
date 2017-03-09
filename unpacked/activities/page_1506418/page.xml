@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="211498" moduleid="1506418" modulename="page" contextid="1949779">
+  <page id="211498">
+    <name>Getting Help</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;If you need help:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Only contact your instructor directly if you have a personal question.&lt;/li&gt;
+&lt;li&gt;For all other questions about course content, activities, deadlines, technical problems, etc., please check the Q &amp;amp; A Forum to see if someone else has already asked your same question and received a response.&lt;/li&gt;
+&lt;li&gt;If your question isn't there yet, post your question to the Q &amp;amp; A Forum. Feel free to help your peers out if you know the answer!&lt;/li&gt;
+&lt;li&gt;If you have technical problems, please fill out the &lt;a href="http://www.atlas.illinois.edu/support/teaching/moodle/student/" target="_blank"&gt;learn@illinois support form&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;If you have questions about Blackboard Collaborate (the web conferencing tool for your synchronous session, virtual office or study lounge), please visit &lt;a href="http://go.illinois.edu/collaboratestudentsupport" target="_blank"&gt;Help and Technical Support for Blackboard Collaborate&lt;/a&gt;. You can also get assistance by calling the &lt;a href="http://go.illinois.edu/collaboratephone" target="_blank"&gt;24-hour phone support number&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Technology Requirements for This Course&lt;/h3&gt;
+&lt;p&gt;Please review the general &lt;a href="http://go.illinois.edu/techrequirements" target="_blank"&gt;hardware and software requirements&lt;/a&gt; established for all online courses. Additionally, you can view the &lt;a href="http://go.illinois.edu/videohelp" target="_blank"&gt;video playback guidelines&lt;/a&gt; for help with video content.&lt;/p&gt;
+&lt;h3&gt;Technology Tutorials&lt;/h3&gt;
+&lt;p&gt;Please review the following tutorials to better equip you to use the educational technologies required in your course.&lt;/p&gt;
+&lt;h4&gt;Learn@Illinois&lt;/h4&gt;
+&lt;p&gt;The Learn@Illinois Moodle Service is the Learning Management System (LMS) in which your course is housed. It is where your course syllabus is kept, where readings and other content can be found, and where you submit your assignments and participate in discussions. See &lt;a href="http://go.illinois.edu/moodlestudenthelp"&gt;Moodle Student Help&lt;/a&gt; for assistance.&lt;/p&gt;
+&lt;h4&gt;Software Plug-Ins&lt;/h4&gt;
+&lt;p&gt;Some elements of this course may require certainly freely downloadable plug-ins in order to function properly. Please visit the &lt;a href="http://www.adobe.com/products/flashplayer/" target="_blank"&gt;Adobe Flash Player&lt;/a&gt; site to ensure you have the latest version of these plug-ins installed.&lt;/p&gt;
+&lt;h4&gt;Blackboard Collaborate&lt;/h4&gt;
+&lt;p&gt;&lt;em&gt;Blackboard Collaborate &lt;/em&gt;is a Web conferencing tool that allows multiple people to meet synchronously to text chat, voice chat, and even video chat with one another. For help and documentation, please visit the &lt;a href="http://go.illinois.edu/collaboratestudentsupport" target="_blank"&gt;Help and Technical Support for Blackboard Collaborate&lt;/a&gt;.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>9</revision>
+    <timemodified>1477681543</timemodified>
+  </page>
+</activity>

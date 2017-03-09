@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="61713" moduleid="1565199" modulename="quiz" contextid="2121981">
+  <quiz id="61713">
+    <name>Week 1 Quiz</name>
+    <intro>&lt;h3&gt;Overview&lt;/h3&gt;
+&lt;p&gt;The purpose of this quiz is for you to apply what you have learned this week to relevant questions on those topics.&lt;/p&gt;
+&lt;h3&gt;Submission Directions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;To begin, click the &lt;strong&gt;Attempt now&lt;/strong&gt; button below.&lt;/li&gt;
+&lt;li&gt;During the quiz, be sure to [[[[[ANY SPECIAL INSTRUCTIONS]]]]].&lt;/li&gt;
+&lt;li&gt;When you are finished answering the questions, click the &lt;strong&gt;Submit all and finish&lt;/strong&gt; button.&lt;/li&gt;
+&lt;li&gt;Each individual is responsible for submitting the quiz. You will know that you have successfully submitted when you see a screen that reads [[[[[[[[TBD-CONFIRMATION MESSAGE]]]]]]]].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Important Details&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Attempts:&lt;/strong&gt; You are allowed &lt;strong&gt;[[[[[[[[[[#]]]]]]]]]] attempts&lt;/strong&gt; at this quiz, with your [[[[[[[[[[highest/average/last]]]]]]]]]] score used to calculate your final grade for this quiz.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Time limit:&lt;/strong&gt; There is a [[[[[[[[[[# minutes/hours]]]]]]]]]] time limit to complete each attempt at the quiz. &lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quiz Navigation:&lt;/strong&gt; This quiz displays a question navigation legend with answered/unanswered . [[[[[[[[You [[[[[[[[will/will not]]]]]]]] be able to go back to previous pages as you work through the quiz.]]]]]]] &lt;strong&gt;Do not use the back button on your browser&lt;/strong&gt; to navigate through the quiz.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Evaluation and Deadlines&lt;/h3&gt;
+&lt;p&gt;For information on evaluation and deadlines, see the Week [[[[X]]]] tab, [[[[[[the [[[[Rubric Name]]]] Rubric]]]]]]], and the Course Policies page.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <timeopen>0</timeopen>
+    <timeclose>0</timeclose>
+    <timelimit>0</timelimit>
+    <overduehandling>autosubmit</overduehandling>
+    <graceperiod>0</graceperiod>
+    <preferredbehaviour>deferredfeedback</preferredbehaviour>
+    <canredoquestions>0</canredoquestions>
+    <attempts_number>2</attempts_number>
+    <attemptonlast>0</attemptonlast>
+    <grademethod>1</grademethod>
+    <decimalpoints>2</decimalpoints>
+    <questiondecimalpoints>-1</questiondecimalpoints>
+    <reviewattempt>69904</reviewattempt>
+    <reviewcorrectness>0</reviewcorrectness>
+    <reviewmarks>0</reviewmarks>
+    <reviewspecificfeedback>0</reviewspecificfeedback>
+    <reviewgeneralfeedback>0</reviewgeneralfeedback>
+    <reviewrightanswer>0</reviewrightanswer>
+    <reviewoverallfeedback>0</reviewoverallfeedback>
+    <questionsperpage>1</questionsperpage>
+    <navmethod>free</navmethod>
+    <shuffleanswers>1</shuffleanswers>
+    <sumgrades>1.00000</sumgrades>
+    <grade>10.00000</grade>
+    <timecreated>0</timecreated>
+    <timemodified>1469207069</timemodified>
+    <password></password>
+    <subnet></subnet>
+    <browsersecurity>-</browsersecurity>
+    <delay1>0</delay1>
+    <delay2>0</delay2>
+    <showuserpicture>0</showuserpicture>
+    <showblocks>0</showblocks>
+    <completionattemptsexhausted>0</completionattemptsexhausted>
+    <completionpass>0</completionpass>
+    <question_instances>
+      <question_instance id="923188">
+        <slot>1</slot>
+        <page>1</page>
+        <requireprevious>0</requireprevious>
+        <questionid>3871834</questionid>
+        <maxmark>1.0000000</maxmark>
+      </question_instance>
+    </question_instances>
+    <sections>
+      <section id="100626">
+        <firstslot>1</firstslot>
+        <heading></heading>
+        <shufflequestions>0</shufflequestions>
+      </section>
+    </sections>
+    <feedbacks>
+      <feedback id="132817">
+        <feedbacktext></feedbacktext>
+        <feedbacktextformat>1</feedbacktextformat>
+        <mingrade>0.00000</mingrade>
+        <maxgrade>11.00000</maxgrade>
+      </feedback>
+    </feedbacks>
+    <overrides>
+    </overrides>
+    <grades>
+    </grades>
+    <attempts>
+    </attempts>
+  </quiz>
+</activity>

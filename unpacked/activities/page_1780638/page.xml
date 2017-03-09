@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="251862" moduleid="1780638" modulename="page" contextid="2777706">
+  <page id="251862">
+    <name>Icebreaker Activity: Introduce Yourself</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Working well with your classmates is an important part of this online course. Thus, at the beginning of this course, we would like you to take time to break the ice and get to know each other. You may already know some of your classmates or have just met them. Establishing personal interaction with other students will make your online learning experience much more enjoyable and engaging.&lt;/p&gt;
+&lt;h3&gt;Time Estimate&lt;/h3&gt;
+&lt;p&gt;Approximately 1 hour&lt;/p&gt;
+&lt;h3&gt;Part 1: Updating Your Profile&lt;/h3&gt;
+&lt;p&gt;If you haven't already done so, you should update your Moodle profile. Your Moodle profile gives your classmates easy access to a little bit about you. Since your classmates can quickly access your Moodle profile almost any time they see your name listed within the course, it is a powerful tool for helping them to get to know you and vice versa. Additionally, when you update your Moodle profile photo, it shows up next to your name in discussion forums, which is a great help to those individuals who can remember faces more readily than names. So, your first task is to update your Moodle profile.&lt;/p&gt;
+&lt;p&gt;Here are &lt;a href="http://go.illinois.edu/moodleupdateprofile" target="_blank"&gt;Instructions for Updating Your Moodle Profile&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;Part 2: Introducing Yourself&lt;/h3&gt;
+&lt;p&gt;Second, you are asked to provide a brief introduction to your classmates. If you don't know what to include in your introduction, you may want to provide information that you'd like to share with your classmates by answering some of the following questions. Post your self-introduction by clicking the &lt;span style="font-weight: bold;"&gt;Add a new discussion topic&lt;/span&gt; button, below. Read your classmates’ postings. Pick at least &lt;span style="font-weight: bold;"&gt;two &lt;/span&gt;classmates’ postings that are most interesting to you and add your friendly comments. Also be sure to click on the name or profile picture of your other classmates to see what they have added to their profile.&lt;/p&gt;
+&lt;h4&gt;Suggested Topics&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;What is your name? What do you prefer to be called?&lt;/li&gt;
+&lt;li&gt;Where are you from?&lt;/li&gt;
+&lt;li&gt;Why did you decide to take this course?&lt;/li&gt;
+&lt;li&gt;What are your expectations of this course?&lt;/li&gt;
+&lt;li&gt;Tell us something about yourself that has nothing to do with school. For exmaple, have you done any traveling lately?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Optionally, you may provide a video introduction using the University of Illinois' Mediaspace tool to embed your video as a discussion forum posting. If you decide to post a video introduction, here are instructions for doing so:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://go.illinois.edu/mediaspacewebcam" target="_blank"&gt;Recording Your WebCam Video&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://go.illinois.edu/mediaspacevideoembed" target="_blank"&gt;Embedding Your Video into Your Discussion Forum Post&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Submission Instructions&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Initial Post:&lt;/strong&gt; Click on the &lt;strong&gt;"Add a new discussion topic"&lt;/strong&gt; button below.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reply:&lt;/strong&gt; Click on the &lt;strong&gt;"Reply"&lt;/strong&gt; link on the posts to which you want to reply.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Evaluation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;This activity is worth &lt;strong&gt;[[[[[# points]]]]]:&lt;/strong&gt; [[[[[&lt;strong&gt;# points&lt;/strong&gt;]]]]] for your initial post and [[[[[&lt;strong&gt;# points&lt;/strong&gt;]]]]] for each response post.&lt;/li&gt;
+&lt;li&gt;Please see the [[[[[&lt;strong&gt;insert rubric link&lt;/strong&gt;]]]]] for detailed information about how your posts will be graded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Deadline&lt;/h3&gt;
+&lt;p&gt;See the &lt;strong&gt;Orientation Module Overview&lt;/strong&gt; page for deadline information.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1478024986</timemodified>
+  </page>
+</activity>

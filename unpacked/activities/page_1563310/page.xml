@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="221995" moduleid="1563310" modulename="page" contextid="2111653">
+  <page id="221995">
+    <name>Orientation Overview</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Welcome to [[[[[Course #: Course Name]]]]]! In this module, you will become familiar with the course, your instructor, your classmates, and our learning environment.&lt;/p&gt;
+&lt;h3&gt;Time Estimate&lt;/h3&gt;
+&lt;p&gt;Approximately [[[[[#]]]]] hours&lt;/p&gt;
+&lt;h3&gt;Objectives&lt;/h3&gt;
+&lt;p&gt;The goal of the orientation module is to familiarize you with the course structure and the online learning environment. The orientation also helps you obtain the technical skills required for the course.&lt;/p&gt;
+&lt;p&gt;After this module, you should be able to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recall important information about this course.&lt;/li&gt;
+&lt;li&gt;Update your profile in Learn@Illinois.&lt;/li&gt;
+&lt;li&gt;Get to know your classmates.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Instructional Activities&lt;/h3&gt;
+&lt;p&gt;Below is a list of the activities and assignments you must complete in this module. Click on the name of each activity for more detailed instructions. All dates listed below are for the first week of the course, though you are encouraged to complete all of these tasks before the course begins.&lt;/p&gt;
+&lt;table cellpadding="10" summary="a listing of activities in this module"&gt;
+&lt;thead&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Activity&lt;/th&gt;&lt;th scope="col"&gt;Due Date&lt;/th&gt;&lt;th scope="col"&gt;Points&lt;/th&gt;&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Read and review Syllabus section&lt;/td&gt;
+&lt;td&gt;Tuesday of Week 1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Complete the Orientation Quiz&lt;/td&gt;
+&lt;td&gt;Tuesday of Week 1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Complete the Getting to Know Your Classmates activity&lt;/td&gt;
+&lt;td&gt;Tuesday of Week 1&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Tips for Success&lt;/h3&gt;
+&lt;p&gt;To do well in this course, remember the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a fast-paced course and your first activities are due on the second day of class!&lt;/li&gt;
+&lt;li&gt;Also realize that while the Orientation Module starts on the first day of class, Week 1 does, too.&lt;/li&gt;
+&lt;li&gt;Log in frequently to manage your messages on a near-daily basis. If you let them pile up for three to four days, you might be overwhelmed. You should start working on new module content right away, on Monday of each week.&lt;/li&gt;
+&lt;li&gt;Consider using a word processing application to create and save all your work so that you have an automatic backup copy of all your assignments. This will also be useful in the unlikely event that our server goes down and we are unable to access course submissions. In this situation, you are still required to keep current on all your tasks and must be prepared to submit completed materials as soon as submission capability is restored.&lt;/li&gt;
+&lt;li&gt;It is very important that you communicate throughout the course, especially during group projects. If you are having difficulties with something or are going to be away from the computer because of illness or a family emergency (or similar difficulties), please inform your group and the instructor as soon as possible. This will keep the instructor from worrying about your whereabouts and your group members from resenting the fact that the work delegated to you is not being done.&lt;/li&gt;
+&lt;li&gt;When possible, provide tips and suggestions to your peers in this class. As a learning community, we can help each other learn and grow. One way of doing this is by helping to address the questions that your peers pose. By engaging with each other, we'll all learn better.&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1478024726</timemodified>
+  </page>
+</activity>

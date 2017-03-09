@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="692019" contextid="2836635" version="2012122006">
+  <blockname>course_request</blockname>
+  <parentcontextid>1913959</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>4</defaultweight>
+  <configdata></configdata>
+  <block_positions>
+  </block_positions>
+</block>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="222474" moduleid="1571781" modulename="page" contextid="2137266">
+  <page id="222474">
+    <name>Week 1 Readings and Lectures</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;[[[If you're having problems, please visit the How to Access Readings page.]]]&lt;/p&gt;
+&lt;h4&gt;Readings&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[READING]]]]] (&lt;a href="http://reserves.library.illinois.edu/ares/" target="_blank"&gt;e-reserves&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[[[[[READING]]]]] (&lt;a href="http://reserves.library.illinois.edu/ares/" target="_blank"&gt;e-reserves&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[[[[[READING]]]]] (&lt;a href="http://reserves.library.illinois.edu/ares/" target="_blank"&gt;e-reserves&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Lectures&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[Lecture 1: Title]]]]&lt;/li&gt;
+&lt;li&gt;[[[[Lecture 2: Title]]]]&lt;/li&gt;
+&lt;li&gt;[[[[Lecture 3: Title]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Key Terms&lt;/h4&gt;
+&lt;p&gt;Keep your eyes open for the following key terms or quotes as you complete the readings and interact with the lectures. These topics will help you better understand the content in this module.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[KEY TERM]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[KEY TERM]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[KEY TERM]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Guiding Questions&lt;/h4&gt;
+&lt;p&gt;Develop your answers to the following guiding questions while completing the readings and as you work through the module.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[GUIDING QUESTION]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[GUIDING QUESTION]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[GUIDING QUESTION]]]]&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1478025346</timemodified>
+  </page>
+</activity>

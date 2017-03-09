@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="222475" moduleid="1571791" modulename="page" contextid="2137276">
+  <page id="222475">
+    <name>Week 1 Overview Video</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;[[[[Brief Summary]]]]&lt;/p&gt;
+&lt;p&gt;[[[[[Embed Video Here. See &lt;a href="http://go.illinois.edu/mediaspacevideoembed" target="_blank"&gt;Instructions for Embedding Your Video&lt;/a&gt;]]]]]&lt;/p&gt;
+&lt;p style="text-align: left;"&gt;Problems viewing this video? See the &lt;a target="_blank" href="https://go.illinois.edu/videohelp"&gt;Video Playback Guidelines.&lt;/a&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1478025191</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="120829" moduleid="1481947" modulename="forum" contextid="1922203">
+  <forum id="120829">
+    <type>news</type>
+    <name>Announcements</name>
+    <intro>&lt;p&gt;This forum is used for important general news, announcements, weekly updates, etc.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Only the instructor (and site administrators) can post to this forum.&lt;/li&gt;
+  &lt;li&gt;All students in this course are subscribed to this forum and receive an email version of anything posted to this forum.&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <assessed>0</assessed>
+    <assesstimestart>0</assesstimestart>
+    <assesstimefinish>0</assesstimefinish>
+    <scale>100</scale>
+    <maxbytes>0</maxbytes>
+    <maxattachments>1</maxattachments>
+    <forcesubscribe>1</forcesubscribe>
+    <trackingtype>1</trackingtype>
+    <rsstype>0</rsstype>
+    <rssarticles>0</rssarticles>
+    <timemodified>1478027508</timemodified>
+    <warnafter>0</warnafter>
+    <blockafter>0</blockafter>
+    <blockperiod>0</blockperiod>
+    <completiondiscussions>0</completiondiscussions>
+    <completionreplies>0</completionreplies>
+    <completionposts>0</completionposts>
+    <displaywordcount>0</displaywordcount>
+    <discussions>
+    </discussions>
+    <subscriptions>
+    </subscriptions>
+    <digests>
+    </digests>
+    <readposts>
+    </readposts>
+    <trackedprefs>
+    </trackedprefs>
+  </forum>
+</activity>

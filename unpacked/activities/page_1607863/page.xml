@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="225529" moduleid="1607863" modulename="page" contextid="2202136">
+  <page id="225529">
+    <name>Blank Rubric</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;[[[[[Additional instructions here]]]]]&lt;/p&gt;
+&lt;table summary="table containing list of performance indicators and corresponding evaluation criteria for the discussions" border="1" cellpadding="5"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;&lt;/th&gt;&lt;th scope="col"&gt;Inadequate&lt;/th&gt;&lt;th scope="col"&gt;Needs Improvement&lt;/th&gt;&lt;th scope="col"&gt;Good&lt;/th&gt;&lt;th scope="col"&gt;Excellent&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Criterion #1&lt;/th&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Criterion #2&lt;/th&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;td scope="col"&gt;Explanation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>11</revision>
+    <timemodified>1478880019</timemodified>
+  </page>
+</activity>

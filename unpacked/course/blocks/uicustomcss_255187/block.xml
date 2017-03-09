@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<block id="255187" contextid="2112124" version="2012062899">
+  <blockname>uicustomcss</blockname>
+  <parentcontextid>1913959</parentcontextid>
+  <showinsubcontexts>0</showinsubcontexts>
+  <pagetypepattern>course-view-*</pagetypepattern>
+  <subpagepattern>$@NULL@$</subpagepattern>
+  <defaultregion>side-pre</defaultregion>
+  <defaultweight>3</defaultweight>
+  <configdata>Tzo4OiJzdGRDbGFzcyI6Mjp7czo2OiJjc3N1cmwiO3M6MDoiIjtzOjc6ImNzc2NvZGUiO3M6MzYyOiIubmF2aWx7DQogICAgICAgIGJvcmRlcjoxcHggc29saWQgI2NjYzsNCiAgICAgICAgYm9yZGVyLXdpZHRoOjFweCAwOw0KICAgICAgICBsaXN0LXN0eWxlOm5vbmU7DQogICAgICAgIG1hcmdpbjowOw0KICAgICAgICBwYWRkaW5nOjA7DQogICAgICAgIHRleHQtYWxpZ246Y2VudGVyOw0KICAgIH0NCg0KLm5hdmlsIGxpew0KICAgICAgICBkaXNwbGF5OmlubGluZTsNCiAgICB9DQoNCi5uYXZpbCBhew0KICAgICAgICBkaXNwbGF5OmlubGluZS1ibG9jazsNCiAgICAgICAgcGFkZGluZzoxMHB4Ow0KICAgIH0NCg0KLm5hdmlsIGE6aG92ZXIsIC5uYXZpbCBhOmZvY3Vzew0KICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiNEREQ7DQogICAgfSI7fQ==</configdata>
+  <block_positions>
+  </block_positions>
+</block>

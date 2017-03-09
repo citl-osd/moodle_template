@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="151273" moduleid="1563334" modulename="label" contextid="2111767">
+  <label id="151273">
+    <name>[[[[Final]]]] Exam Information
+[[[[Final]]]] Exam...</name>
+    <intro>&lt;h3&gt;[[[[Final]]]] Exam Information&lt;/h3&gt;
+&lt;h4&gt;[[[[Final]]]] Exam [[[[#]]]] Overview&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Coverage: [[[[Cumulative or Based on content covered in Modules #-#]]]]&lt;/li&gt;
+&lt;li&gt;Format: [[[[ MC, T/F, Short answer, Essay]]]]&lt;/li&gt;
+&lt;li&gt;Time Limit: [[[[Hours]]]]&lt;/li&gt;
+&lt;li&gt;[[[[Proctored: see Proctored Exam Options below]]]] [[[[Non-proctored: see Non-proctored Exam Instructions below]]]]&lt;/li&gt;
+&lt;li&gt;Feedback: your score will be visible to you in the grade book only after [[[[the exam availability period is ended]]]] [[[[and all short answer or essay questions have been graded by your instructor]]]].&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table border="1" cellspacing="3" cellpadding="0" summary="Table containing arranged and conflict final exam dates, times, and locations" style="width: 100%;"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Information&lt;/th&gt;&lt;th scope="col"&gt;Arranged Exam&lt;/th&gt;&lt;th scope="col"&gt;Conflict Exam&lt;/th&gt;&lt;th&gt;ProctorU Exam&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;Date&lt;/th&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;td&gt;TBD&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;Time&lt;/th&gt;
+&lt;td&gt;TBD (&lt;a href="http://www.timeanddate.com/worldclock/fixedform.html" target="_blank" title="Link: http://www.timeanddate.com/worldclock/fixedform.html"&gt;time zone conversion&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;TBD (&lt;a href="http://www.timeanddate.com/worldclock/fixedform.html" target="_blank" title="Link: http://www.timeanddate.com/worldclock/fixedform.html"&gt;time zone conversion&lt;/a&gt;)&lt;/td&gt;
+&lt;td&gt;TBD (&lt;a href="http://www.timeanddate.com/worldclock/fixedform.html" target="_blank" title="Link: http://www.timeanddate.com/worldclock/fixedform.html"&gt;time zone conversion&lt;/a&gt;)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;Location&lt;/th&gt;
+&lt;td&gt;TBD [[link to specific &lt;a href="http://illinois.edu/map/view"&gt;campus map&lt;/a&gt; location]]&lt;/td&gt;
+&lt;td&gt;TBD [[link to specific &lt;a href="http://illinois.edu/map/view"&gt;campus map&lt;/a&gt; location]]&lt;/td&gt;
+&lt;td&gt;ProctorU&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;Time Limit&lt;/th&gt;
+&lt;td&gt;# hours&lt;/td&gt;
+&lt;td&gt;# hours&lt;/td&gt;
+&lt;td&gt;# hours&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;Non-proctored Exam Instructions&lt;/h3&gt;
+&lt;p&gt;The [[[[Midterm/Final/Exam #]]] is not proctored. It will be made available to you in your [[[[Moodle/Compass 2g]]]] course site on [[[[Date]]]] from [[[[Time]]]]–[[[[[Time]]]] central time (CT) (&lt;a href="http://www.timeanddate.com/worldclock/fixedform.html" target="_blank"&gt;time zone conversion&lt;/a&gt;). Once you start the exam, you will have [[[[#]]]] hours to complete it. You cannot stop the clock.&lt;/p&gt;
+&lt;p&gt;[[[[[**IMPORTANT: The [[[[Midterm/Final/Exam #]]] closes at [[[exam closing time]]]]. As this is a [[[[#]]]]-hour exam, it is strongly advised that you begin the exam no later than [[[[TIME]]] CT on [[[[DATE]]]]].&lt;/p&gt;
+&lt;h3&gt;Proctored Exam Options&lt;/h3&gt;
+&lt;p&gt;The [[[[Final]]] Exam [[[[#]]]] for this course is proctored. You can either take your exam on the Champaign-Urbana campus, online through the ProctorU service, or at a proctored location off campus as explained in the three exam options below.&lt;/p&gt;
+&lt;h4&gt;Option 1: On-Campus&lt;/h4&gt;
+&lt;p&gt;If you wish to take the [[[[exam/exams]]]] at the Champaign-Urbana campus, [[[[it/they]]]] will be held at the following dates, times, and locations. If you indicated in the [[[[Exam Preference—(link to Choice Activity in Moodle or Survey in Compass)]]]] that you will be taking your exam on campus, then you simply need to show up for your exam on the arranged or conflict date at the time and location indicated in the &lt;span class="nolink"&gt;schedule &lt;/span&gt;below. No further scheduling is needed for on-campus exams. Important: A photo ID is required for the on-campus exam, so be sure to bring it with you for the exam.&lt;/p&gt;
+&lt;h4&gt;Option 2: ProctorU&lt;/h4&gt;
+&lt;p&gt;ProctorU is an online proctoring service that allows students to take exams online while ensuring the integrity of the exam for the institution. The service authenticates your identity and monitors both your computer screen and webcam to ensure academic integrity. If you decide to take your [[[[Midterm/Final/Exam #]]] exam online via ProctorU, you will need to pass the ProctorU System Test (see &lt;a href="http://go.illinois.edu/proctoru" target="_blank"&gt;ProctorU Overview&lt;/a&gt;) and &lt;a href="http://go.illinois.edu/pu_schedule" target="_blank"&gt;Schedule Your Exam with ProctorU&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fee-based exam: see the &lt;a href="http://go.illinois.edu/proctoru" target="_blank"&gt;ProctorU Overview&lt;/a&gt; for pricing. Refunds are given only if the exam is canceled within 48 hours before the scheduled exam time.&lt;/li&gt;
+&lt;li&gt;72-hour notice is required for scheduling exams online, after which you must &lt;span class="nolink"&gt;schedule &lt;/span&gt;by phone with an additional $5 rush fee.&lt;/li&gt;
+&lt;li&gt;Web cam, microphone, computer with internet connection, and two forms of photo ID are required.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;Option 3: Proctored Location off Campus (other than ProctorU)&lt;/h4&gt;
+&lt;p&gt;If you choose a proctored location off campus (other than ProctorU), it must allow for a timed [[[[#]]]]-hour, web-based test (through [[[[Moodle/Compass 2g]]]]) from [[[[SAMPLE: 8:00 a.m. (CT) Aug. 7 - 8:00 p.m. (CT) Aug. 8]]]] (&lt;a href="http://www.timeanddate.com/worldclock/fixedform.html" target="_blank"&gt;time zone conversion&lt;/a&gt;). You must also complete the &lt;a href="http://go.illinois.edu/thirdparty" target="_blank"&gt;Third-Party Proctor Request Form&lt;/a&gt; and email it to your instructor no later than two weeks before the exam date to indicate your third-party proctored exam choice and your off-campus proctor information. You may consult the NCTA links below for possible testing center locations. Note that not all testing centers have web-based testing, so please be sure to choose a testing center that will allow you to take your tests online at the arranged or conflict times. Once you have chosen your proctor, it is your responsibility to &lt;span class="nolink"&gt;schedule &lt;/span&gt;the exam with the proctor. Your instructor will notify the proctor with instructions on how to access your exam. &lt;strong&gt;Please verify with the proctor that they will be open and able to proctor the exam for you before contacting your instructor about this proctored exam choice.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.ncta-testing.org/cctc/" target="_blank"&gt;NCTA Consortium of College Testing Centers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ncta-testing.org/cctc/find.php?State=IL" target="_blank"&gt;NCTA College Testing Centers in Illinois&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</intro>
+    <introformat>1</introformat>
+    <timemodified>1488149423</timemodified>
+  </label>
+</activity>

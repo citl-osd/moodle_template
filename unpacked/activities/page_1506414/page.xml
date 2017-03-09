@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="211494" moduleid="1506414" modulename="page" contextid="1949775">
+  <page id="211494">
+    <name>Policies</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;ul class="navil"&gt;
+&lt;li&gt;&lt;a href="#accommodations"&gt;Accommodations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#participation"&gt;Participation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#instructor_responses"&gt;Instructor Responses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#academic_integrity"&gt;Academic Integrity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#copyright"&gt;Copyright&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#student_behavior"&gt;Student Behavior&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="#communications"&gt;Communications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;[[[[[NOTE TO INSTRUCTOR: Most policies are set by default but can be changed.]]]]]&lt;/p&gt;
+&lt;h3&gt;&lt;a id="accommodations"&gt;&lt;/a&gt;Accommodations&lt;/h3&gt;
+&lt;p&gt;To obtain disability-related academic adjustments and/or auxiliary aids, students should contact both the instructor and the Disability Resources and Educational Services (DRES) as soon as possible. You can contact DRES at 1207 S. Oak Street, Champaign, (217) 333-1970, or via email at &lt;a href="mailto:disability@illinois.edu" target="_blank"&gt;disability@illinois.edu&lt;/a&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;a id="participation"&gt;&lt;/a&gt;Participation&lt;/h3&gt;
+&lt;p&gt;Active participation in the online learning environment is vital to your success in this course. Depending on your course, you may be asked to engage in online discussions and other interactive learning environments that invite your active participation and involvement with other students and your instructor.&lt;/p&gt;
+&lt;h4&gt;Student Commitment&lt;/h4&gt;
+&lt;p&gt;By registering for this online course, you commit to self-motivated study, participation in online course activities, and timely submission of all assignments. Furthermore, you commit to accessing the course website and checking e-mail at least four days per week (daily for 4-week courses), as well as to devoting at least 6-8 hrs./week (16-week course), 12-16 hrs./week (8-week course), or 24-32 hrs./week (4-week course) to preparing for each module and completing the required assignments and readings.&lt;/p&gt;
+&lt;h4&gt;Deadlines&lt;/h4&gt;
+&lt;p&gt;If you are unable to meet a particular deadline, it is your responsibility to make prior arrangements with the instructors for that given week. Otherwise, work submitted later than [[[[[# of hours or days]]]]] will receive [[[[[a letter grade deduction/penalty]]]]], and work submitted later than [[[# of days]]]]] will not be considered for grading unless consent has been given by the instructor.&lt;/p&gt;
+&lt;h3&gt;&lt;a id="instructor_responses"&gt;&lt;/a&gt;Instructor Responses&lt;/h3&gt;
+&lt;h4&gt;Instructor Feedback Turnaround Time&lt;/h4&gt;
+&lt;p&gt;[[[[[Questions posted to the &lt;b&gt;General Q &amp;amp; A&lt;/b&gt; forum generally will be answered within 48 hours. If possible, students are encouraged to answer questions posted by other students to the General Q &amp;amp; A forum, rather than waiting for an instructor's response.]]]]]&lt;/p&gt;
+&lt;p&gt;[[[[[Assignments submitted online will be reviewed and graded by the course instructor within [[[[[#]]]]] business days. Exams, essays, and term papers will be graded within [[[[[#]]]]] business days. If your instructor is unable to meet this timeline, students will be notified.]]]]]&lt;/p&gt;
+&lt;h4&gt;Responding to E-mails and Phone Calls&lt;/h4&gt;
+&lt;p&gt;[[[[[The instructor will respond to e-mail messages and phone calls within 24 hours of receiving them unless the instructor notifies you ahead of time of an inability to do so. &lt;b&gt;When sending e-mail, include a subject line that identifies the course number and nature of your question.&lt;/b&gt; The instructor may not respond to questions sent to him or her that should be posted in the &lt;b&gt;General Q &amp;amp; A&lt;/b&gt; forum. Please don't be offended if you are asked to forward your question to this location. If you leave a voicemail message with the instructor, please check your e-mail for a response.]]]]]&lt;/p&gt;
+&lt;h4&gt;Responding to the Discussion Forums&lt;/h4&gt;
+&lt;p&gt;The role of the instructor within the discussion forums is to help facilitate discussion by providing probing questions, asking for clarification, and helping solve conflicts as necessary. The instructor will not respond to every post. You are encouraged to share your thoughts, experiences, and ideas with each other as well.&lt;/p&gt;
+&lt;h3&gt;&lt;a id="academic_integrity"&gt;&lt;/a&gt;Academic Integrity&lt;/h3&gt;
+&lt;p&gt;Academic dishonesty will not be tolerated. Examples of academic dishonesty include the following:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cheating&lt;/li&gt;
+&lt;li&gt;Fabrication&lt;/li&gt;
+&lt;li&gt;Facilitating infractions of academic integrity&lt;/li&gt;
+&lt;li&gt;Plagiarism&lt;/li&gt;
+&lt;li&gt;Bribes, favors, and threats&lt;/li&gt;
+&lt;li&gt;Academic interference&lt;/li&gt;
+&lt;li&gt;Examination by proxy&lt;/li&gt;
+&lt;li&gt;Grade tampering&lt;/li&gt;
+&lt;li&gt;Non-original works&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Should an incident arise in which a student is thought to have violated academic integrity, the student will be processed under the disciplinary policy set forth in the &lt;a href="http://admin.illinois.edu/policy/code/article1_part4_1-401.html" target="_blank"&gt;Illinois Academic Integrity Policy&lt;/a&gt;. If you do not understand relevant definitions of academic infractions, contact your instructor for an explanation within the first week of class.&lt;/p&gt;
+&lt;h3&gt;&lt;a id="copyright"&gt;&lt;/a&gt;Copyright&lt;/h3&gt;
+&lt;h4&gt;Student Content&lt;/h4&gt;
+&lt;p&gt;Participants in University of Illinois courses retain copyright of all assignments and posts they complete; however, all materials may be used for educational purposes within the given course. In group projects, only the portion of the work completed by a particular individual is copyrighted by that individual. The University of Illinois may request that students' materials be shared with future courses, but such sharing will only be done with the students' consent. The information that students submit during a course may, however, be used for the purposes of administrative data collection and research. No personal information is retained without the students' consent.&lt;/p&gt;
+&lt;h4&gt;Non-Student Content&lt;/h4&gt;
+&lt;p&gt;Everything on this site and within University of Illinois courses is copyrighted. The copyrights of all non-student work are owned by the University of Illinois Board of Trustees, except in approved cases where the original creator retains copyright of the material. Copyrights to external links are owned by or are the responsibility of those external sites. Students are free to view and print material from this site so long as&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The material is used for informational purposes only.&lt;/li&gt;
+&lt;li&gt;The material is used for noncommercial purposes only.&lt;/li&gt;
+&lt;li&gt;Copies of any material include the respective copyright notice.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These materials may not be mirrored or reproduced on non-University of Illinois websites without the express written permission of the University of Illinois Board of Trustees. To request permission, please contact the academic unit for the program.&lt;/p&gt;
+&lt;h3&gt;&lt;a id="student_behavior"&gt;&lt;/a&gt;Student Behavior&lt;/h3&gt;
+&lt;h4&gt;Student Conduct&lt;/h4&gt;
+&lt;p&gt;Students are expected to behave in accordance with the penal and civil statutes of all applicable local, state, and federal governments, with the rules and regulations of the Board of Regents, and with University regulations and administrative rules.&lt;/p&gt;
+&lt;p&gt;For more information about the student code and handbook, see the &lt;a href="http://citl.illinois.edu/online-learning/student-support/course-policies" target="_blank"&gt;CITL Course Policies page&lt;/a&gt;.&lt;/p&gt;
+&lt;h4&gt;Netiquette&lt;/h4&gt;
+&lt;p&gt;In any social interaction, certain rules of etiquette are expected and contribute to more enjoyable and productive communication. The following are tips for interacting online via e-mail or discussion board messages, adapted from guidelines originally compiled by Chuq Von Rospach and Gene Spafford (1995):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Remember that the person receiving your message is someone like you, deserving and appreciating courtesy and respect.&lt;/li&gt;
+&lt;li&gt;Be brief; succinct, thoughtful messages have the greatest effect.&lt;/li&gt;
+&lt;li&gt;Your messages reflect on you personally; take time to make sure that you are proud of their form and content.&lt;/li&gt;
+&lt;li&gt;Use descriptive subject headings in your e-mails.&lt;/li&gt;
+&lt;li&gt;Think about your audience and the relevance of your messages.&lt;/li&gt;
+&lt;li&gt;Be careful when you use humor and sarcasm; absent the voice inflections and body language that aid face-to-face communication, Internet messages are easy to misinterpret.&lt;/li&gt;
+&lt;li&gt;When making follow-up comments, summarize the parts of the message to which you are responding.&lt;/li&gt;
+&lt;li&gt;Avoid repeating what has already been said; needless repetition is ineffective communication.&lt;/li&gt;
+&lt;li&gt;Cite appropriate references whenever using someone else's ideas, thoughts, or words.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a id="communications"&gt;&lt;/a&gt;Communications&lt;/h3&gt;
+&lt;h4&gt;Daily Contact&lt;/h4&gt;
+&lt;p&gt;Your daily contact should be via the discussion forums in our Learning Management System and via e-mail.&lt;/p&gt;
+&lt;h4&gt;Course Questions&lt;/h4&gt;
+&lt;p&gt;Questions pertaining to the course should be posted in our &lt;b&gt;General Q &amp;amp; A&lt;/b&gt; discussion forum. You can get to this forum from the course home page. Posting questions here allows everyone to benefit from the answers. If you have a question, someone else is probably wondering the same thing. Anyone submitting a question via e-mail will be directed to resubmit the question to the Q &amp;amp; A discussion forum. Also, participants should not hesitate to answer questions posed by peers if they know the answers and the instructor has not yet responded. This not only expedites the process but also encourages peer interaction and support.&lt;/p&gt;
+&lt;h4&gt;Personal and Grade-related Questions&lt;/h4&gt;
+&lt;p&gt;Questions of a personal nature should first be sent to the instructor's e-mail address (listed on the &lt;b&gt;Instructor Information&lt;/b&gt; page). &lt;b&gt;When sending e-mail, include a subject that identifies the course number and nature of your question.&lt;/b&gt;&lt;/p&gt;
+&lt;h4&gt;Emergencies&lt;/h4&gt;
+&lt;p&gt;If you have an emergency that will keep you from participating in the course, please notify your instructor by using the instructor's e-mail address (listed on the Instructor Information page). Provide callback information in your e-mail (if necessary). You should also notify your program director of any emergencies.&lt;/p&gt;
+&lt;h4&gt;Blackboard Collaborate&lt;/h4&gt;
+&lt;p&gt;&lt;i&gt;Blackboard Collaborate &lt;/i&gt;is a tool that allows multiple people to join together simultaneously via a computer to text chat, audio chat, video chat, collaborate on a digital whiteboard, and even share their computer desktops with one another. The Instructor's Virtual Office and the Student Lounge (when available) make use of &lt;i&gt;Collaborate&lt;/i&gt;.&lt;/p&gt;
+&lt;h4&gt;Instructor's Virtual Office&lt;/h4&gt;
+&lt;p&gt;Another way to communicate with the instructor is to make use of the virtual office hours. The instructor will be available for office hours via Blackboard Collaborate on the dates and during the times listed on the &lt;b&gt;Virtual Office&lt;/b&gt; page in the &lt;b&gt;Syllabus&lt;/b&gt;. You will be prompted to provide your name in order to enter the Virtual Office.&lt;/p&gt;
+&lt;h4&gt;&lt;span class="nolink"&gt;Announcements&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;The &lt;b&gt;Announcements&lt;/b&gt; forum serves as a way for your instructor and University of Illinois administrators to make &lt;span class="nolink"&gt;announcements&lt;/span&gt; within our online learning environment. &lt;span class="nolink"&gt;Announcements&lt;/span&gt; posted here will also be sent to your Illinois e-mail address, so be sure to check your e-mail or the Announcements forum at least once a day to see whether any new &lt;span class="nolink"&gt;announcements&lt;/span&gt; have been made.&lt;/p&gt;
+&lt;h4&gt;Telephone&lt;/h4&gt;
+&lt;p&gt;The telephone is still sometimes the most effective mode for troubleshooting problems related to the course. The instructor's phone number, virtual office hour times, and other contact information can be found by clicking on the &lt;b&gt;Instructor Information&lt;/b&gt; page within this Syllabus.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>20</revision>
+    <timemodified>1478023073</timemodified>
+  </page>
+</activity>

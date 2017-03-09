@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="252591" moduleid="1787952" modulename="page" contextid="2788617">
+  <page id="252591">
+    <name>Instructor's Welcome Message</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;Dear Instructor,&lt;/p&gt;
+&lt;p&gt;It is important to welcome your students to the course and let them know how to get started. Thus, one week before the start of the course, please post an announcement to the Course &lt;span class="nolink"&gt;Announcements &lt;/span&gt;forum. All enrolled students will receive a copy of that post via their university email account. Since students do enroll into the course late, you should re-post the same announcement a couple of days before the course and a day into the course. Feel free to copy-and-paste the sample message below and tweak it as desired, as it contains the most important information to help students get started.&lt;/p&gt;
+&lt;p&gt;The boilerplate welcome message below has all the essential information students need but may need some tweaking and personalizing by you. Because students will register late, instructors should ideally send out the welcome message three times: the week before the course officially starts, the official start date of the course, and two days after the official start date. In the second and third mailings, you can preface the welcome message with language like, "For the benefit of those students who have recently joined the class, we are sending out the welcome message information again."&lt;/p&gt;
+&lt;p&gt;Important: be certain you have made the course available to students before sending out the welcome message; otherwise, students will not receive the message and will not have access to the course. See &lt;a href="http://go.illinois.edu/moodlesitevisible" target="_blank"&gt;Making Course Sites Visible&lt;/a&gt; for instructions on how to make your course available to students.&lt;/p&gt;
+&lt;p&gt;--&lt;a href="http://citl.illinois.edu/" target="_blank"&gt;Center for Innovation in Teaching &amp;amp; Learning (CITL)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Note: This page is "hidden" (grayed-out on the homepage), meaning it (and others like it) are not visible to students.&lt;/p&gt;
+&lt;hr style="width: 95%; height: 2px;" /&gt;
+&lt;p&gt;Dear Students,&lt;/p&gt;
+&lt;p&gt;Welcome from your [[[[[course name]]]]] instructor for the [[[[[semester and year]]]]] session. My name is [[[[[instructor’s name]]]]], and I look forward to teaching you this semester.&lt;/p&gt;
+&lt;h3&gt;About the Course&lt;/h3&gt;
+&lt;p&gt;[[[[[Follows brief description about what course covers, the overall learning goals and objectives]]]]].&lt;/p&gt;
+&lt;p&gt;On the course website please review the syllabus to familiarize with the course, you need to complete the [[[[[insert orientation activity]]]]] by [[[[[insert deadline]]]]].&lt;/p&gt;
+&lt;p&gt;Please read carefully through the entire syllabus! The information is there to improve your overall success in this course by helping you gain a solid understanding of the course goals and expectations. For information on getting started with [[[[[LMS]]]]], please consult the [[[[[LMS help resource]]]]].&lt;/p&gt;
+&lt;h3&gt;Your First Assignment&lt;/h3&gt;
+&lt;p&gt;The first assignment for the course is to complete the [[[[[insert assignment description]]]]]. The assignment must be submitted by [[[[[insert deadline]]]]].&lt;/p&gt;
+&lt;h3&gt;Questions or Concerns?&lt;/h3&gt;
+&lt;p&gt;If you have any questions, please post them to the Q &amp;amp; A Forum. We will answer you as quickly as possible, generally within [[[[[#]]]]] hours, or better yet a classmate answers. If your questions or concerns are private (e.g., grades), feel free to contact me on email at [[[[[instructor’s email address]]]]].&lt;/p&gt;
+&lt;p&gt;[[[[[Insert closing message here]]]]]&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1478209182</timemodified>
+  </page>
+</activity>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="223108" moduleid="1578376" modulename="page" contextid="2152426">
+  <page id="223108">
+    <name>Course Schedule</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;See the Weekly Overview pages for more details and the most up-to-date information.&lt;/p&gt;
+&lt;h3&gt;Week 1: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 2: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 3: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 4: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 5: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 6: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 7: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 8: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 9: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 10: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 11: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 12: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 13: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 14: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 15: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Week 16: [[[[[Topic Title (optional)]]]]] [[[[[date range in MMMM DD, YYYY MMMM DD, YYYY format (year is important so students can confirm dates have been updated)]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Activity Name]]]]] [[[[[Optional: specific due date in MMMM DD, YYYY format]]]]]&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1478022706</timemodified>
+  </page>
+</activity>

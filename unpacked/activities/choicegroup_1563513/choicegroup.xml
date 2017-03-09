@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="960" moduleid="1563513" modulename="choicegroup" contextid="2112036">
+  <choicegroup id="960">
+    <name>Exam 2 Preference [[[MOVE TO PROPER WEEK]]]</name>
+    <intro>&lt;p&gt;Please indicate your exam preference below.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This preference sign up is NOT for formally scheduling your exam but to help us adjust seating capacity. &lt;em&gt;To schedule your exam, you must follow the instructions in the Exams tab.&lt;br /&gt;&lt;/em&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <publish>1</publish>
+    <showresults>0</showresults>
+    <display>0</display>
+    <allowupdate>1</allowupdate>
+    <limitanswers>1</limitanswers>
+    <timeopen>1466540100</timeopen>
+    <timeclose>1466540100</timeclose>
+    <timemodified>1466542494</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <sortgroupsby>0</sortgroupsby>
+    <options>
+      <option id="9535">
+        <groupid>179773</groupid>
+        <maxanswers>30</maxanswers>
+        <timemodified>1466542494</timemodified>
+      </option>
+      <option id="9538">
+        <groupid>179779</groupid>
+        <maxanswers>30</maxanswers>
+        <timemodified>1466542495</timemodified>
+      </option>
+      <option id="9541">
+        <groupid>179785</groupid>
+        <maxanswers>30</maxanswers>
+        <timemodified>1466542495</timemodified>
+      </option>
+      <option id="9544">
+        <groupid>179788</groupid>
+        <maxanswers>30</maxanswers>
+        <timemodified>1466542495</timemodified>
+      </option>
+    </options>
+  </choicegroup>
+</activity>

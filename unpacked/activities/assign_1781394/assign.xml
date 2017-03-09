@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="187407" moduleid="1781394" modulename="assign" contextid="2779668">
+  <assign id="187407">
+    <name>Grade for Week 2 Discussion</name>
+    <intro>&lt;p&gt;This is a forum-specific review tool for instructors that also allows students to view their grades and any related comments for the Week 2 Discussion.&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <alwaysshowdescription>0</alwaysshowdescription>
+    <submissiondrafts>0</submissiondrafts>
+    <sendnotifications>0</sendnotifications>
+    <sendlatenotifications>0</sendlatenotifications>
+    <sendstudentnotifications>0</sendstudentnotifications>
+    <duedate>0</duedate>
+    <cutoffdate>0</cutoffdate>
+    <allowsubmissionsfromdate>0</allowsubmissionsfromdate>
+    <grade>20</grade>
+    <timemodified>1478027313</timemodified>
+    <completionsubmit>0</completionsubmit>
+    <requiresubmissionstatement>0</requiresubmissionstatement>
+    <teamsubmission>0</teamsubmission>
+    <requireallteammemberssubmit>0</requireallteammemberssubmit>
+    <teamsubmissiongroupingid>0</teamsubmissiongroupingid>
+    <blindmarking>0</blindmarking>
+    <revealidentities>0</revealidentities>
+    <attemptreopenmethod>none</attemptreopenmethod>
+    <maxattempts>-1</maxattempts>
+    <markingworkflow>0</markingworkflow>
+    <markingallocation>0</markingallocation>
+    <preventsubmissionnotingroup>0</preventsubmissionnotingroup>
+    <userflags>
+    </userflags>
+    <submissions>
+    </submissions>
+    <grades>
+    </grades>
+    <plugin_configs>
+      <plugin_config id="2349714">
+        <plugin>onlinetext</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349717">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349720">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxfilesubmissions</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349723">
+        <plugin>file</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>maxsubmissionsizebytes</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349726">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349729">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>subjectid</name>
+        <value>129871</value>
+      </plugin_config>
+      <plugin_config id="2349732">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>activitytype</name>
+        <value>forum</value>
+      </plugin_config>
+      <plugin_config id="2349735">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>forum_method</name>
+        <value>2</value>
+      </plugin_config>
+      <plugin_config id="2349738">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>posts_min</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349741">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>posts_due_date</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349744">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>replies_min</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349747">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>replies_due_date</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349750">
+        <plugin>comments</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349753">
+        <plugin>editpdf</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>1</value>
+      </plugin_config>
+      <plugin_config id="2349756">
+        <plugin>file</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349759">
+        <plugin>offline</plugin>
+        <subtype>assignfeedback</subtype>
+        <name>enabled</name>
+        <value>0</value>
+      </plugin_config>
+      <plugin_config id="2349762">
+        <plugin>review</plugin>
+        <subtype>assignsubmission</subtype>
+        <name>modified</name>
+        <value>1478027313</value>
+      </plugin_config>
+    </plugin_configs>
+  </assign>
+</activity>

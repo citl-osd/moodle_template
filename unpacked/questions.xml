@@ -1,0 +1,1963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<question_categories>
+  <question_category id="230512">
+    <name>Default for Week 1 Quiz</name>
+    <contextid>2121981</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>1565199</contextinstanceid>
+    <info>The default category for questions shared in context 'Week 1 Quiz'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.illinois.edu+160715165809+oN4ocf</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="230515">
+    <name>Default for CITL Moodle Template - Master</name>
+    <contextid>1913959</contextid>
+    <contextlevel>50</contextlevel>
+    <contextinstanceid>16804</contextinstanceid>
+    <info>The default category for questions shared in context 'CITL Moodle Template - Master'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.illinois.edu+160715165809+pOlV7H</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+      <question id="3871834">
+        <parent>0</parent>
+        <name>test</name>
+        <questiontext>&lt;p&gt;test&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+160715165835+nRxwFP</stamp>
+        <version>learn.illinois.edu+160715165835+lpAPD5</version>
+        <hidden>0</hidden>
+        <timecreated>1468601915</timecreated>
+        <timemodified>1468601915</timemodified>
+        <createdby>1175</createdby>
+        <modifiedby>1175</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="12023056">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="12023059">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="226996">
+            <trueanswer>12023056</trueanswer>
+            <falseanswer>12023059</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="3935182">
+        <parent>0</parent>
+        <name>test</name>
+        <questiontext>&lt;p&gt;is this test true?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+160810195946+LM5lDr</stamp>
+        <version>learn.illinois.edu+160810195946+vkD20F</version>
+        <hidden>0</hidden>
+        <timecreated>1470859186</timecreated>
+        <timemodified>1470859186</timemodified>
+        <createdby>204055</createdby>
+        <modifiedby>204055</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="12211945">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback>&lt;p&gt;incorrect, please try again&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="12211948">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback>&lt;p&gt;well done&lt;/p&gt;</feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="230902">
+            <trueanswer>12211945</trueanswer>
+            <falseanswer>12211948</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459374">
+        <parent>0</parent>
+        <name>Technology - Adobe Acrobat Reader</name>
+        <questiontext>&lt;p&gt;To view some of the reading material for this course in PDF format, I have installed the free Adobe Acrobat Reader.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You will likely need to install the free Adobe Acrobat Reader in order to access course readings and documents.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020161053+51kEf0</stamp>
+        <version>learn.illinois.edu+161020161421+HDUFho</version>
+        <hidden>0</hidden>
+        <timecreated>1476979853</timecreated>
+        <timemodified>1476980061</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13881042">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881045">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249192">
+            <trueanswer>13881042</trueanswer>
+            <falseanswer>13881045</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459377">
+        <parent>0</parent>
+        <name>Technology - Multimedia Presentations</name>
+        <questiontext>&lt;p&gt;To view multimedia presentations for this course, I have installed the free Flash Player.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You will likely need to install the free Flash Player in order to access the video and PowerPoint presentations in this course.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020161406+Ldfj4l</stamp>
+        <version>learn.illinois.edu+161020161406+9FFfcd</version>
+        <hidden>0</hidden>
+        <timecreated>1476980046</timecreated>
+        <timemodified>1476980046</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13881048">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881051">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249195">
+            <trueanswer>13881048</trueanswer>
+            <falseanswer>13881051</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459383">
+        <parent>0</parent>
+        <name>Policy - Time Commitment</name>
+        <questiontext>&lt;p&gt;&lt;span&gt;For successful completion of this 16-week course, how many hours per week can I expect to spend working through lesson materials, readings, assignments, and other instructional activities?&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You can expect to spend between 6-8 hours per week on various instructional activities in this 8-week course.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020163355+s2wteX</stamp>
+        <version>learn.illinois.edu+161024135430+cToExW</version>
+        <hidden>0</hidden>
+        <timecreated>1476981235</timecreated>
+        <timemodified>1477317270</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881054">
+              <answertext>&lt;p&gt;6-8&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881057">
+              <answertext>&lt;p&gt;8-10&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881060">
+              <answertext>&lt;p&gt;10-12&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881063">
+              <answertext>&lt;p&gt;12-14&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125970">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>0</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459386">
+        <parent>0</parent>
+        <name>Moodle - Discussion</name>
+        <questiontext>&lt;p&gt;&lt;span&gt;I can view all discussion threads for my Moodle course by clicking on the Forums under the Activities heading of the Navigation bar.&lt;/span&gt;&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;This statement is true. You can view all discussion threads for this Moodle course by clicking on the Forums under the Activities heading of the Navigation bar.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020163733+MMQvwW</stamp>
+        <version>learn.illinois.edu+161020163733+ZW8QO3</version>
+        <hidden>0</hidden>
+        <timecreated>1476981453</timecreated>
+        <timemodified>1476981453</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13881066">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881069">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249198">
+            <trueanswer>13881066</trueanswer>
+            <falseanswer>13881069</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459389">
+        <parent>0</parent>
+        <name>Moodle - Grades</name>
+        <questiontext>&lt;p&gt;To access your grades in Moodle, which link should you click?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020164022+N9uHCb</stamp>
+        <version>learn.illinois.edu+161020164022+DO1mPq</version>
+        <hidden>0</hidden>
+        <timecreated>1476981622</timecreated>
+        <timemodified>1476981622</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881072">
+              <answertext>&lt;p&gt;Grades&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881075">
+              <answertext>&lt;p&gt;Assignments&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881078">
+              <answertext>&lt;p&gt;Profiles&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881081">
+              <answertext>&lt;p&gt;Quizzes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881084">
+              <answertext>&lt;p&gt;None of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125973">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459392">
+        <parent>0</parent>
+        <name>Moodle - Questions about Course Content</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have a question about course content?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020164840+1AzO3X</stamp>
+        <version>learn.illinois.edu+161020165806+8KPELE</version>
+        <hidden>0</hidden>
+        <timecreated>1476982120</timecreated>
+        <timemodified>1476982686</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881087">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881090">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881093">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125976">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459395">
+        <parent>0</parent>
+        <name>Moodle - Questions about Grades</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have a question about my grades, or if I have a personal issue I need to report (e.g., illness or anticipated absence)?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020165136+GrRNPF</stamp>
+        <version>learn.illinois.edu+161020165816+NyxB4I</version>
+        <hidden>0</hidden>
+        <timecreated>1476982296</timecreated>
+        <timemodified>1476982696</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881096">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881099">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881102">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125979">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459398">
+        <parent>0</parent>
+        <name>Moodle - Problems with logging in</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have issues logging into the course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020165633+lFHAF6</stamp>
+        <version>learn.illinois.edu+161020165847+uMEy7F</version>
+        <hidden>0</hidden>
+        <timecreated>1476982593</timecreated>
+        <timemodified>1476982727</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881105">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881108">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881111">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125982">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459425">
+        <parent>0</parent>
+        <name>Policy - Student Commitment</name>
+        <questiontext>&lt;p&gt;With respect to the level of participation expected in this course, how frequently am I expected to login to the course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;By registering for this online course, you commit to accessing the course website and checking e-mail at least four days per week. You also commit to self-motivated study, participation in online course activities, and timely submission of all assignments. See the Course Policies page for more information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020170653+nFGMGN</stamp>
+        <version>learn.illinois.edu+161024135521+kikZsD</version>
+        <hidden>0</hidden>
+        <timecreated>1476983213</timecreated>
+        <timemodified>1477317321</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881114">
+              <answertext>&lt;p&gt;Daily&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881117">
+              <answertext>&lt;p&gt;Four days per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881120">
+              <answertext>&lt;p&gt;Twice per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881123">
+              <answertext>&lt;p&gt;Once per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881126">
+              <answertext>&lt;p&gt;None of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125985">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4459428">
+        <parent>0</parent>
+        <name>Moodle - Resources</name>
+        <questiontext>&lt;p&gt;Who do I contact to obtain disability-related academic adjustments (such as extended testing time or text conversion) and/or auxiliary aids?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Students should contact both the instructor and the Disability Resources and Educational Services (DRES) as soon as possible. See the Course Policies page for specific contact information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161020170922+pbcHRl</stamp>
+        <version>learn.illinois.edu+161020170922+JyBFW5</version>
+        <hidden>0</hidden>
+        <timecreated>1476983362</timecreated>
+        <timemodified>1476983362</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13881129">
+              <answertext>&lt;p&gt;The instructor&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881132">
+              <answertext>&lt;p&gt;The Disability Resources and Educational Services (DRES)&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13881135">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3125988">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460019">
+        <parent>0</parent>
+        <name>Technology - Adobe Acrobat Reader</name>
+        <questiontext>&lt;p&gt;To view some of the reading material for this course in PDF format, I have installed the free Adobe Acrobat Reader.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You will likely need to install the free Adobe Acrobat Reader in order to access course readings and documents.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024135823+jxXyoZ</stamp>
+        <version>learn.illinois.edu+161024135823+SxgfXX</version>
+        <hidden>0</hidden>
+        <timecreated>1477317503</timecreated>
+        <timemodified>1477317503</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13882971">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13882974">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249366">
+            <trueanswer>13882971</trueanswer>
+            <falseanswer>13882974</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460022">
+        <parent>0</parent>
+        <name>Technology - Multimedia Presentations</name>
+        <questiontext>&lt;p&gt;To view multimedia presentations for this course, I have installed the free Flash Player.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You will likely need to install the free Flash Player in order to access the video and PowerPoint presentations in this course.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024135901+42pu9R</stamp>
+        <version>learn.illinois.edu+161024135901+OhmvQn</version>
+        <hidden>0</hidden>
+        <timecreated>1477317541</timecreated>
+        <timemodified>1477317541</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13882977">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13882980">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249369">
+            <trueanswer>13882977</trueanswer>
+            <falseanswer>13882980</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460025">
+        <parent>0</parent>
+        <name>Policy - Time Commitment</name>
+        <questiontext>&lt;p&gt;For successful completion of this 4-week course, how many hours per week can I expect to spend working through lesson materials, readings, assignments, and other instructional activities?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You can expect to spend between 24-32 hours per week on various instructional activities in this 4-week course.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140024+7XVRsE</stamp>
+        <version>learn.illinois.edu+161024140024+nKGFus</version>
+        <hidden>0</hidden>
+        <timecreated>1477317624</timecreated>
+        <timemodified>1477317624</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13882983">
+              <answertext>&lt;p&gt;8-12&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13882986">
+              <answertext>&lt;p&gt;12-16&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13882989">
+              <answertext>&lt;p&gt;16-20&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13882992">
+              <answertext>&lt;p&gt;20-24&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13882995">
+              <answertext>&lt;p&gt;24-32&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126312">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460028">
+        <parent>0</parent>
+        <name>Moodle - Discussion</name>
+        <questiontext>&lt;p&gt;I can view all discussion threads for my Moodle course by clicking on the Forums under the Activities heading of the Navigation bar.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;This statement is true. You can view all discussion threads for this Moodle course by clicking on the Forums under the Activities heading of the Navigation bar.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140102+cVjSw4</stamp>
+        <version>learn.illinois.edu+161024140102+iHvp7V</version>
+        <hidden>0</hidden>
+        <timecreated>1477317662</timecreated>
+        <timemodified>1477317662</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13882998">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883001">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249372">
+            <trueanswer>13882998</trueanswer>
+            <falseanswer>13883001</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460031">
+        <parent>0</parent>
+        <name>Moodle - Grades</name>
+        <questiontext>&lt;p&gt;To access your grades in Moodle, which link should you click?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140155+PmBjqd</stamp>
+        <version>learn.illinois.edu+161024140155+F1tKN3</version>
+        <hidden>0</hidden>
+        <timecreated>1477317715</timecreated>
+        <timemodified>1477317715</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883004">
+              <answertext>&lt;p&gt;Grades&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883007">
+              <answertext>&lt;p&gt;Assignments&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883010">
+              <answertext>&lt;p&gt;Profiles&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883013">
+              <answertext>&lt;p&gt;Quizzes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883016">
+              <answertext>&lt;p&gt;None of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126315">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460034">
+        <parent>0</parent>
+        <name>Moodle - Questions about Course Content</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have a question about course content?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140306+SNBVpP</stamp>
+        <version>learn.illinois.edu+161024140306+MMGCIE</version>
+        <hidden>0</hidden>
+        <timecreated>1477317786</timecreated>
+        <timemodified>1477317786</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883019">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883022">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883025">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126318">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460037">
+        <parent>0</parent>
+        <name>Moodle - Questions about Grades</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have a question about my grades, or if I have a personal issue I need to report (e.g., illness or anticipated absence)?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140404+ETW4sQ</stamp>
+        <version>learn.illinois.edu+161024140404+ToVqU7</version>
+        <hidden>0</hidden>
+        <timecreated>1477317844</timecreated>
+        <timemodified>1477317844</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883028">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883031">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883034">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126321">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460040">
+        <parent>0</parent>
+        <name>Moodle - Problems with logging in</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have issues logging into the course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140506+mGRKDH</stamp>
+        <version>learn.illinois.edu+161024140506+FWXZcy</version>
+        <hidden>0</hidden>
+        <timecreated>1477317906</timecreated>
+        <timemodified>1477317906</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883037">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883040">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883043">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126324">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460043">
+        <parent>0</parent>
+        <name>Policy - Student Commitment</name>
+        <questiontext>&lt;p&gt;With respect to the level of participation expected in this course, how frequently am I expected to login to the course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;By registering for this online course, you commit to accessing the course website and checking e-mail daily. You also commit to self-motivated study, participation in online course activities, and timely submission of all assignments. See the Course Policies page for more information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140618+uQyM2j</stamp>
+        <version>learn.illinois.edu+161024140618+YBJLva</version>
+        <hidden>0</hidden>
+        <timecreated>1477317978</timecreated>
+        <timemodified>1477317978</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883046">
+              <answertext>&lt;p&gt;Daily&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883049">
+              <answertext>&lt;p&gt;Four days per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883052">
+              <answertext>&lt;p&gt;Twice per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883055">
+              <answertext>&lt;p&gt;Once per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883058">
+              <answertext>&lt;p&gt;None of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126327">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460046">
+        <parent>0</parent>
+        <name>Moodle - Resources</name>
+        <questiontext>&lt;p&gt;Who do I contact to obtain disability-related academic adjustments (such as extended testing time or text conversion) and/or auxiliary aids?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Students should contact both the instructor and the Disability Resources and Educational Services (DRES) as soon as possible. See the Course Policies page for specific contact information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140711+i3tyqy</stamp>
+        <version>learn.illinois.edu+161024140711+iuOFf6</version>
+        <hidden>0</hidden>
+        <timecreated>1477318031</timecreated>
+        <timemodified>1477318031</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883061">
+              <answertext>&lt;p&gt;The instructor&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883064">
+              <answertext>&lt;p&gt;The Disability Resources and Educational Services (DRES)&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883067">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126330">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460049">
+        <parent>0</parent>
+        <name>Technology - Adobe Acrobat Reader</name>
+        <questiontext>&lt;p&gt;To view some of the reading material for this course in PDF format, I have installed the free Adobe Acrobat Reader.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You will likely need to install the free Adobe Acrobat Reader in order to access course readings and documents.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140842+uuppCr</stamp>
+        <version>learn.illinois.edu+161024140842+pEu7lj</version>
+        <hidden>0</hidden>
+        <timecreated>1477318122</timecreated>
+        <timemodified>1477318122</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13883070">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883073">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249375">
+            <trueanswer>13883070</trueanswer>
+            <falseanswer>13883073</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460052">
+        <parent>0</parent>
+        <name>Technology - Multimedia Presentations</name>
+        <questiontext>&lt;p&gt;To view multimedia presentations for this course, I have installed the free Flash Player.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You will likely need to install the free Flash Player in order to access the video and PowerPoint presentations in this course.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024140920+nBaFfj</stamp>
+        <version>learn.illinois.edu+161024140920+LSuFUA</version>
+        <hidden>0</hidden>
+        <timecreated>1477318160</timecreated>
+        <timemodified>1477318160</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13883076">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883079">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249378">
+            <trueanswer>13883076</trueanswer>
+            <falseanswer>13883079</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460055">
+        <parent>0</parent>
+        <name>Policy - Time Commitment</name>
+        <questiontext>&lt;p&gt;For successful completion of this 8-week course, how many hours per week can I expect to spend working through lesson materials, readings, assignments, and other instructional activities?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;You can expect to spend between 12-16 hours per week on various instructional activities in this 8-week course.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024141032+Rrfpis</stamp>
+        <version>learn.illinois.edu+161024141032+GFRzsV</version>
+        <hidden>0</hidden>
+        <timecreated>1477318232</timecreated>
+        <timemodified>1477318232</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883082">
+              <answertext>&lt;p&gt;8-12&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883085">
+              <answertext>&lt;p&gt;12-16&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883088">
+              <answertext>&lt;p&gt;16-20&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883091">
+              <answertext>&lt;p&gt;20-24&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883094">
+              <answertext>&lt;p&gt;24-28&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126333">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460058">
+        <parent>0</parent>
+        <name>Moodle - Discussion</name>
+        <questiontext>&lt;p&gt;I can view all discussion threads for my Moodle course by clicking on the Forums under the Activities heading of the Navigation bar.&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;This statement is true. You can view all discussion threads for this Moodle course by clicking on the Forums under the Activities heading of the Navigation bar.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>1.0000000</penalty>
+        <qtype>truefalse</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024141146+2QTx7G</stamp>
+        <version>learn.illinois.edu+161024141146+EzlMCb</version>
+        <hidden>0</hidden>
+        <timecreated>1477318306</timecreated>
+        <timemodified>1477318306</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_truefalse_question>
+          <answers>
+            <answer id="13883097">
+              <answertext>True</answertext>
+              <answerformat>0</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883100">
+              <answertext>False</answertext>
+              <answerformat>0</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <truefalse id="249381">
+            <trueanswer>13883097</trueanswer>
+            <falseanswer>13883100</falseanswer>
+          </truefalse>
+        </plugin_qtype_truefalse_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460061">
+        <parent>0</parent>
+        <name>Moodle - Grades</name>
+        <questiontext>&lt;p&gt;To access your grades in Moodle, which link should you click?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback></generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024141237+S6Hyy5</stamp>
+        <version>learn.illinois.edu+161024141237+oWkuyC</version>
+        <hidden>0</hidden>
+        <timecreated>1477318357</timecreated>
+        <timemodified>1477318357</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883103">
+              <answertext>&lt;p&gt;Grades&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883106">
+              <answertext>&lt;p&gt;Assignments&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883109">
+              <answertext>&lt;p&gt;Profiles&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883112">
+              <answertext>&lt;p&gt;Quizzes&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883115">
+              <answertext>&lt;p&gt;None of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126336">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460064">
+        <parent>0</parent>
+        <name>Moodle - Questions about Course Content</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have a question about course content?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024141616+Esg2vS</stamp>
+        <version>learn.illinois.edu+161024141616+6gi7k8</version>
+        <hidden>0</hidden>
+        <timecreated>1477318576</timecreated>
+        <timemodified>1477318576</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883118">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883121">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883124">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126339">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460067">
+        <parent>0</parent>
+        <name>Moodle - Questions about Grades</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have a question about my grades, or if I have a personal issue I need to report (e.g., illness or anticipated absence)?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024142726+BgTOGH</stamp>
+        <version>learn.illinois.edu+161024142726+whbcoa</version>
+        <hidden>0</hidden>
+        <timecreated>1477319246</timecreated>
+        <timemodified>1477319246</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883127">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883130">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883133">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126342">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460070">
+        <parent>0</parent>
+        <name>Moodle - Problems with logging in</name>
+        <questiontext>&lt;p&gt;Who do I contact if I have issues logging into the course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Please see the "Getting Help" page under the Course Help tab for more information on who to contact when you need help.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024142812+ErpVSA</stamp>
+        <version>learn.illinois.edu+161024142812+LqjeeZ</version>
+        <hidden>0</hidden>
+        <timecreated>1477319292</timecreated>
+        <timemodified>1477319292</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883136">
+              <answertext>&lt;p&gt;I should contact my instructor directly&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883139">
+              <answertext>&lt;p&gt;I should post my question in the General Q &amp;amp; A discussion forum&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883142">
+              <answertext>&lt;p&gt;ATLAS&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126345">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460073">
+        <parent>0</parent>
+        <name>Policy - Student Commitment</name>
+        <questiontext>&lt;p&gt;With respect to the level of participation expected in this course, how frequently am I expected to login to the course?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;By registering for this online course, you commit to accessing the course website and checking e-mail at least four days per week. You also commit to self-motivated study, participation in online course activities, and timely submission of all assignments. See the Course Policies page for more information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024142923+rnY5nF</stamp>
+        <version>learn.illinois.edu+161024142923+hEmsA5</version>
+        <hidden>0</hidden>
+        <timecreated>1477319363</timecreated>
+        <timemodified>1477319363</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883145">
+              <answertext>&lt;p&gt;Daily&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883148">
+              <answertext>&lt;p&gt;Four days per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883151">
+              <answertext>&lt;p&gt;Twice per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883154">
+              <answertext>&lt;p&gt;Once per week&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883157">
+              <answertext>&lt;p&gt;None of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126348">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+      <question id="4460076">
+        <parent>0</parent>
+        <name>Moodle - Resources</name>
+        <questiontext>&lt;p&gt;Who do I contact to obtain disability-related academic adjustments (such as extended testing time or text conversion) and/or auxiliary aids?&lt;/p&gt;</questiontext>
+        <questiontextformat>1</questiontextformat>
+        <generalfeedback>&lt;p&gt;Students should contact both the instructor and the Disability Resources and Educational Services (DRES) as soon as possible. See the Course Policies page for specific contact information.&lt;/p&gt;</generalfeedback>
+        <generalfeedbackformat>1</generalfeedbackformat>
+        <defaultmark>1.0000000</defaultmark>
+        <penalty>0.3333333</penalty>
+        <qtype>multichoice</qtype>
+        <length>1</length>
+        <stamp>learn.illinois.edu+161024143008+aMO5qO</stamp>
+        <version>learn.illinois.edu+161024143008+sRYR3F</version>
+        <hidden>0</hidden>
+        <timecreated>1477319408</timecreated>
+        <timemodified>1477319408</timemodified>
+        <createdby>20364</createdby>
+        <modifiedby>20364</modifiedby>
+        <plugin_qtype_multichoice_question>
+          <answers>
+            <answer id="13883160">
+              <answertext>&lt;p&gt;The instructor&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883163">
+              <answertext>&lt;p&gt;The Disability Resources and Educational Services (DRES)&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>0.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+            <answer id="13883166">
+              <answertext>&lt;p&gt;All of the above&lt;/p&gt;</answertext>
+              <answerformat>1</answerformat>
+              <fraction>1.0000000</fraction>
+              <feedback></feedback>
+              <feedbackformat>1</feedbackformat>
+            </answer>
+          </answers>
+          <multichoice id="3126351">
+            <layout>0</layout>
+            <single>1</single>
+            <shuffleanswers>1</shuffleanswers>
+            <correctfeedback>&lt;p&gt;Your answer is correct.&lt;/p&gt;</correctfeedback>
+            <correctfeedbackformat>1</correctfeedbackformat>
+            <partiallycorrectfeedback>&lt;p&gt;Your answer is partially correct.&lt;/p&gt;</partiallycorrectfeedback>
+            <partiallycorrectfeedbackformat>1</partiallycorrectfeedbackformat>
+            <incorrectfeedback>&lt;p&gt;Your answer is incorrect.&lt;/p&gt;</incorrectfeedback>
+            <incorrectfeedbackformat>1</incorrectfeedbackformat>
+            <answernumbering>abc</answernumbering>
+            <shownumcorrect>1</shownumcorrect>
+          </multichoice>
+        </plugin_qtype_multichoice_question>
+        <question_hints>
+        </question_hints>
+        <tags>
+        </tags>
+      </question>
+    </questions>
+  </question_category>
+  <question_category id="257168">
+    <name>Default for Orientation Quiz (16-week)</name>
+    <contextid>2763606</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>1773507</contextinstanceid>
+    <info>The default category for questions shared in context 'Orientation Quiz (16-week)'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.illinois.edu+161021135302+9UgA7s</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="257243">
+    <name>Default for Orientation Quiz (4-week)</name>
+    <contextid>2768430</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>1775190</contextinstanceid>
+    <info>The default category for questions shared in context 'Orientation Quiz (4-week)'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.illinois.edu+161024135738+YpohUq</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+  <question_category id="257246">
+    <name>Default for Orientation Quiz (8-week)</name>
+    <contextid>2768466</contextid>
+    <contextlevel>70</contextlevel>
+    <contextinstanceid>1775208</contextinstanceid>
+    <info>The default category for questions shared in context 'Orientation Quiz (8-week)'.</info>
+    <infoformat>0</infoformat>
+    <stamp>learn.illinois.edu+161024140801+TUNp7O</stamp>
+    <parent>0</parent>
+    <sortorder>999</sortorder>
+    <questions>
+    </questions>
+  </question_category>
+</question_categories>

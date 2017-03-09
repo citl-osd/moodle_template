@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module id="1563510" version="2015121000">
+  <modulename>choicegroup</modulename>
+  <sectionid>791944</sectionid>
+  <sectionnumber>3</sectionnumber>
+  <idnumber></idnumber>
+  <added>1466540361</added>
+  <score>0</score>
+  <indent>0</indent>
+  <visible>1</visible>
+  <visibleold>1</visibleold>
+  <groupmode>0</groupmode>
+  <groupingid>0</groupingid>
+  <completion>0</completion>
+  <completiongradeitemnumber>$@NULL@$</completiongradeitemnumber>
+  <completionview>0</completionview>
+  <completionexpected>0</completionexpected>
+  <availability>$@NULL@$</availability>
+  <showdescription>1</showdescription>
+</module>

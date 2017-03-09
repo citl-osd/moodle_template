@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="223105" moduleid="1578373" modulename="page" contextid="2152405">
+  <page id="223105">
+    <name>Project Overview</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;[[[[[Description of project]]]]].&lt;/p&gt;
+&lt;h3&gt;Objectives&lt;/h3&gt;
+&lt;p&gt;[[[[[List of learning outcomes for the project.]]]]]&lt;/p&gt;
+&lt;h3&gt;Project Milestones&lt;/h3&gt;
+&lt;p&gt;Below are summaries of the milestone assignments that make up the project. To directly access any of the project milestone assignments, please follow the corresponding link in the Project Schedule table below.&lt;/p&gt;
+&lt;h4&gt;&lt;span class="nolink"&gt;Project Milestone 1: [[[[[Title of Project Milestone 1]]]]]&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;[[[[[Description of Project Milestone 1]]]]]&lt;/p&gt;
+&lt;p&gt;See Project Milestone 1: [[[[[Title of Project Milestone 1]]]]] for details.&lt;/p&gt;
+&lt;h4&gt;&lt;span class="nolink"&gt;Project Milestone 2: [[[[[Title of Project Milestone 2]]]]]&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;[[[[[Description of Project Milestone 2]]]]]&lt;/p&gt;
+&lt;p&gt;See Project Milestone 2: [[[[[Title of Project Milestone 2]]]]] for details.&lt;/p&gt;
+&lt;h4&gt;&lt;span class="nolink"&gt;Project Milestone 3: [[[[[Title of Project Milestone 3]]]]]&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;[[[[[Description of Project Milestone 3]]]]] &lt;/p&gt;
+&lt;p&gt;See Project Milestone 3: [[[[[Title of Project Milestone 3]]]]] for details.&lt;/p&gt;
+&lt;h4&gt;&lt;span class="nolink"&gt;Project Milestone 4: [[[[[Title of Project Milestone 4]]]]]&lt;/span&gt;&lt;/h4&gt;
+&lt;p&gt;[[[[[Description of Project Milestone 4]]]]]&lt;/p&gt;
+&lt;p&gt;See Project Milestone 4: [[[[[Title of Project Milestone 4]]]]] for details.&lt;/p&gt;
+&lt;h3&gt;Project Schedule&lt;/h3&gt;
+&lt;p&gt;As shown in the table below, the course project consists of 4 milestones leading up to, and including, [[[[[Project Milestone 4]]]]].&lt;/p&gt;
+&lt;table style="border: 1px solid #000000; vertical-align: top; width: 100%;" rules="all" frame="box" summary="listing of project parts with corresponding deadline, point, and group/individual type" border="1" cellpadding="3" cellspacing="2"&gt;
+&lt;tbody&gt;
+&lt;tr&gt;&lt;th scope="col"&gt;Activity&lt;/th&gt;&lt;th scope="col"&gt;Work Period&lt;/th&gt;&lt;th scope="col"&gt;Deadline*&lt;/th&gt;&lt;th scope="col"&gt;Time Estimate&lt;/th&gt;&lt;th scope="col"&gt;Points&lt;/th&gt;&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[[Project Milestone 1: TITLE]]]]]&lt;/th&gt;
+&lt;td&gt;[[[[[Week # - Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week, Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Points]]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[[Project Milestone 2: TITLE]]]]]&lt;/th&gt;
+&lt;td&gt;[[[[[Week # - Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week, Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Points]]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[[Project Milestone 3: TITLE]]]]]&lt;/th&gt;
+&lt;td&gt;[[[[[Week # - Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week, Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Points]]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;&lt;th scope="row"&gt;[[[[[Project Milestone 4: TITLE]]]]]&lt;/th&gt;
+&lt;td&gt;[[[[[Week # - Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[Day of Week, Week #]]]]]&lt;/td&gt;
+&lt;td&gt;[[[[[#]]]] hours&lt;/td&gt;
+&lt;td&gt;[[[[[Points]]]]]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;* Unless otherwise noted, all deadlines are before 11:55 PM Central Time (&lt;a href="http://www.timeanddate.com/worldclock/converter.html" target="_blank"&gt;time zone conversion&lt;/a&gt;) and correspond to the weekly module in which they are listed.&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>15</revision>
+    <timemodified>1478025582</timemodified>
+  </page>
+</activity>

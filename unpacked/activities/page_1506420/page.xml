@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="211500" moduleid="1506420" modulename="page" contextid="1949784">
+  <page id="211500">
+    <name>Course Readings</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p&gt;&lt;a href="#orientation"&gt;Orientation&lt;/a&gt; | &lt;a href="#week1"&gt;Week 1&lt;/a&gt; | &lt;a href="#week2"&gt;Week 2&lt;/a&gt; | &lt;a href="#week3"&gt;Week 3&lt;/a&gt; | &lt;a href="#week4"&gt;Week 4&lt;/a&gt; | &lt;a href="#week5"&gt;Week 5&lt;/a&gt; | &lt;a href="#week6"&gt;Week 6&lt;/a&gt; | &lt;a href="#week7"&gt;Week 7&lt;/a&gt; | &lt;a href="#week8"&gt;Week 8&lt;/a&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;a name="orientation" id="orientation"&gt;&lt;/a&gt;Orientation&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week1" id="week1"&gt;&lt;/a&gt;Week 1—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]] (&lt;a href="https://reserves.library.illinois.edu/ares/" target="_blank"&gt;e-reserves&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week2" id="week2"&gt;&lt;/a&gt;Week 2—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week3" id="week3"&gt;&lt;/a&gt;Week 3—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week4" id="week4"&gt;&lt;/a&gt;Week 4—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week5" id="week5"&gt;&lt;/a&gt;Week 5—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week6" id="week6"&gt;&lt;/a&gt;Week 6—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]] (&lt;a href="https://reserves.library.illinois.edu/ares/" target="_blank"&gt;e-reserves&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week7" id="week7"&gt;&lt;/a&gt;Week 7—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;a name="week8" id="week8"&gt;&lt;/a&gt;Week 8—[[[[[Topic]]]]]&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;[[[[[Reading]]]]]&lt;/li&gt;
+&lt;/ul&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:12:"printheading";s:1:"1";s:10:"printintro";s:1:"0";}</displayoptions>
+    <revision>17</revision>
+    <timemodified>1478024664</timemodified>
+  </page>
+</activity>

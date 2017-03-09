@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<areas>
+  <area id="167586">
+    <areaname>submissions</areaname>
+    <activemethod>guide</activemethod>
+    <definitions>
+      <definition id="18072">
+        <method>guide</method>
+        <name>Discussion Rubric</name>
+        <description></description>
+        <descriptionformat>1</descriptionformat>
+        <status>20</status>
+        <timecreated>1477921014</timecreated>
+        <timemodified>1477921015</timemodified>
+        <options>{"alwaysshowdefinition":"1","showmarkspercriterionstudents":"1"}</options>
+        <plugin_gradingform_guide_definition>
+          <guidecriteria>
+            <guidecriterion id="38391">
+              <sortorder>1</sortorder>
+              <shortname>Initial Post</shortname>
+              <description></description>
+              <descriptionformat>0</descriptionformat>
+              <descriptionmarkers></descriptionmarkers>
+              <descriptionmarkersformat>0</descriptionmarkersformat>
+              <maxscore>10.00000</maxscore>
+            </guidecriterion>
+            <guidecriterion id="38394">
+              <sortorder>2</sortorder>
+              <shortname>Reply Post 1</shortname>
+              <description></description>
+              <descriptionformat>0</descriptionformat>
+              <descriptionmarkers></descriptionmarkers>
+              <descriptionmarkersformat>0</descriptionmarkersformat>
+              <maxscore>5.00000</maxscore>
+            </guidecriterion>
+            <guidecriterion id="38397">
+              <sortorder>3</sortorder>
+              <shortname>Reply Post 2</shortname>
+              <description></description>
+              <descriptionformat>0</descriptionformat>
+              <descriptionmarkers></descriptionmarkers>
+              <descriptionmarkersformat>0</descriptionmarkersformat>
+              <maxscore>5.00000</maxscore>
+            </guidecriterion>
+          </guidecriteria>
+          <guidecomments>
+          </guidecomments>
+        </plugin_gradingform_guide_definition>
+        <instances>
+        </instances>
+      </definition>
+    </definitions>
+  </area>
+</areas>
